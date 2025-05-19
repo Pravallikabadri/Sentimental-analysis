@@ -1,4 +1,4 @@
-*# Sentimental-analysis*
+# *Sentimental-analysis*
 
 <img src="sentimental_analysis.jpg" alt="Sentiment Analysis Sample Output" width="800" height="400">>
 
