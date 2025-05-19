@@ -1,6 +1,6 @@
 *# Sentimental-analysis*
 
-<img src="/mnt/data/ChatGPT Image May 19, 2025, 07_51_18 PM (1).png" alt="Sentiment Analysis Sample Output" width="800" height="400">>
+<img src="sentimental_analysis.jpg" alt="Sentiment Analysis Sample Output" width="800" height="400">>
 
 # 📑Project Title  
 ### Sentimental analysis
