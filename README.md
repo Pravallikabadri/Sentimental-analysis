@@ -1,5 +1,10 @@
 # Sentimental-analysis
-<img src="sentiment-analysis-lstm.png" alt="Sentiment Analysis Sample Output" width="800" height="400">
+
+<img src="/mnt/data/sentimental analysis.png"
+     alt="Sentiment Analysis Sample Output"
+     width="800"
+     height="400">
+
 
 # 📑Project Title  
 ### Sentimental analysis
